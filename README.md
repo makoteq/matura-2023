@@ -7,8 +7,9 @@ Zbiór przydatnych skryptów i rozwiązań do zadań maturalnych
 3.  Wyślij [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request "** Pull Request ** ") i gotowe!
 
 #### Jak dodać nowy skrypt:
-1. Utwórz folder zatytułowany nazwą algorytmu,
-2. **Wewnątrz utworzonego folder dodaj:**
+1. Przejdź do folderu **skrypty**
+2. Utwórz folder zatytułowany nazwą algorytmu,
+3. **Wewnątrz utworzonego folder dodaj:**
 	- plik readme.md z opisem algorytmu
 	- plik z kodem źródłowym
-3. Wyślij [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request "** Pull Request ** ") i gotowe!
+4. Wyślij [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request "** Pull Request ** ") i gotowe!
